@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Juan Cruz! 
 
-<!--
-**juancruzriadigos/juancruzriadigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer and the creator of **[StateDataIndex.com](https://statedataindex.com)**, the largest public directory for US building permit fees and local contractor regulations.
 
-Here are some ideas to get you started:
+#### 🚀 Currently Working On
+* Scaling **StateDataIndex** to cover over 3,000 US counties with automated SEO.
+* Building a fast, programmatic web architecture using PHP and MySQL.
+* Optimizing local SEO and lead generation for home improvement projects like roof replacements, solar panel installations, and fence building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+* PHP | MySQL | HTML/CSS | Tailwind CSS | Flutter / Dart
+
+#### 📫 How to reach me
+* 🌐 Website: [https://statedataindex.com](https://statedataindex.com)
